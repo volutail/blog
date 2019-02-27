@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: project
 title:  "Learning Keras (1)"
-theme: jekyll-theme-cayman
 ---
 #Keras学习笔记（一）
 [Keras](https://keras.io)是一个采用python语言编写的高级神经网络API，兼容TensorFlow，CNTK和Theano等深度学习框架。神经网络的搭建在Keras上十分简单，并且过程更加形象，因此在这里记录下Keras框架的学习过程。
