@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title:  "Learning Keras (1)"
 ---
 #Keras学习笔记（一）
